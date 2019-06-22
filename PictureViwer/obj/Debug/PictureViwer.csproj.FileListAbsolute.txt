@@ -1,0 +1,10 @@
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\bin\Debug\PictureViwer.exe.config
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\bin\Debug\PictureViwer.exe
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\bin\Debug\PictureViwer.pdb
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\obj\Debug\PictureViwer.csprojAssemblyReference.cache
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\obj\Debug\PictureViwer.Form1.resources
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\obj\Debug\PictureViwer.Properties.Resources.resources
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\obj\Debug\PictureViwer.csproj.GenerateResource.cache
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\obj\Debug\PictureViwer.csproj.CoreCompileInputs.cache
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\obj\Debug\PictureViwer.exe
+C:\Users\vhreis\source\repos\PictureViwer\PictureViwer\obj\Debug\PictureViwer.pdb
